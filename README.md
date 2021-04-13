@@ -1,2 +1,2 @@
 # PHP-Leaning
-PHP+MySQL（MariaDB） Webサーバーサイドプログラミング入門 Udemyの学習用リポジトリです。
+Udemyの教材 PHP+MySQL（MariaDB） Webサーバーサイドプログラミング入門 学習用リポジトリです。
