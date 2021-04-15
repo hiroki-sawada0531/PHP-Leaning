@@ -18,7 +18,8 @@
 <main>
 <h2>Practice</h2>
 <pre>
-    <?php print(htmlspecialchars()) ?>
+    <?php print(htmlspecialchars($_POST['gender'],
+    ENT_QUOTES)); ?>
 </pre>
 </main>
 </body>
