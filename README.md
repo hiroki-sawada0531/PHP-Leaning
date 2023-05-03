@@ -1,9 +1,8 @@
 # PHP-Leaning
 Udemyの教材 PHP+MySQL（MariaDB） Webサーバーサイドプログラミング入門 学習用リポジトリです。
 
-## 教材URLと作者様
-Udemy (https://www.udemy.com/course/php7basic/)　<br>
-講師: たにぐち　まこと 様 (https://tomosta.jp/)
+## 教材URL
+Udemy (https://www.udemy.com/course/php7basic/)
 
 ## 講座内容
 PHPは、現在のWebシステム開発に使われる、サーバーサイドプログラミング言語の中で最も人気のある言語です。
